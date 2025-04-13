@@ -1,5 +1,5 @@
 ## Photo
-Website: [photo.ouma3.org](https://photo.ouma3.org)
+Website: [ouma3.org](https://ouma3.org)
 ## Contact
 mail: [msg@ouma3.org](mailto:msg@ouma3.org)
 <div align="center" class="todo" style="display: flex; flex-flow: column">
